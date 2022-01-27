@@ -1,0 +1,13 @@
+- un portfolio (une sélection de réalisations) LinkedIn
+- un CV & Lettre de motivation (PDF)
+- un plan de développement professionnel
+
+Site web personalisé (styles-studio.com)
+Composé d'insta, itch, Git.
+Mettre en lien avec LinkedIn
+
+Canvas: Poster: (Nom_Prénom_Portfolio.)
+		CV, 
+		plan developpement pro, 
+		lettre de mot, 
+		liens Site & LinkedIn
